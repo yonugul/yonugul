@@ -6,7 +6,7 @@ I'm Mehmet.
 - 👥 Core team member at [@obrosoft](https://github.com/obrosoft)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, C#, .NET, XAMARIN.FORMS
+- 👨‍💻 C#, .NET, XAMARIN.FORMS, TypeScript, JavaScript, 
 - ⚙️ React, React-Native
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL
